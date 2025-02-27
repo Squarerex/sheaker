@@ -9,7 +9,7 @@ const App = () => {
     <>
       <Navbar/>
       <HoverMenu/>
-      {/* <Footer/> */}
+      <Footer/>
       </>
   )
 }
